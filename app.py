@@ -629,7 +629,7 @@ def sleep_quality_by_age():
 
 def deepseek_api(messages):
     """支持多轮对话的DeepSeek API调用"""
-    client = OpenAI(api_key="sk-177bb21ae9e146dd8cb043277c0048e4", base_url="https://api.deepseek.com")
+    client = OpenAI(api_key="xxxxxxx", base_url="https://api.deepseek.com")
     
     # 将消息格式转换为OpenAI格式
     formatted_messages = []
