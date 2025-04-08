@@ -6,14 +6,6 @@ Created by Cao Yang.
 In view of the current situation of the lack of clinical application of sleep analysis systems, this paper develops a modular sleep staging analysis system. Based on the implemented multi-modal PSG (Polysomnography) sleep staging algorithm, a complete sleep staging analysis system is designed and implemented. This system adopts a modular architecture, which has good extensibility and compatibility. It can provide efficient sleep quality assessment tools for clinicians and also meet the needs of long-term sleep monitoring of household users.  
 
 
-## Screenshots
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0000.png)
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0001.jpg)
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0002.jpg)
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0003.jpg)
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0004.jpg)
-![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0005.jpg)
-
 
 # Main function
 
@@ -24,7 +16,13 @@ In view of the current situation of the lack of clinical application of sleep an
 - Sleep analysis and advice module
 
 
-    
+## Screenshots
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0000.png)
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0001.jpg)
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0002.jpg)
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0003.jpg)
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0004.jpg)
+![Sleep-Monitoring-Assistance-System website](https://github.com/sa404-star/Sleep-Monitoring-Assistance-System/blob/master/images/app_page-0005.jpg)
 
 ## Run Locally
 
