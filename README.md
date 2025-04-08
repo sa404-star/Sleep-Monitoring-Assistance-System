@@ -1,37 +1,34 @@
 
-# Sleep Stages Identification
+# Sleep-Monitoring-Assistance-System
 
-Uncover the secrets of your sleep with this innovative web app powered by Python, Streamlit, and machine learning!
+Created by Cao Yang. 
 
-## Demo
+In view of the current situation of the lack of clinical application of sleep analysis systems, this paper develops a modular sleep staging analysis system. Based on the implemented multi-modal PSG (Polysomnography) sleep staging algorithm, a complete sleep staging analysis system is designed and implemented. This system adopts a modular architecture, which has good extensibility and compatibility. It can provide efficient sleep quality assessment tools for clinicians and also meet the needs of long-term sleep monitoring of household users.  
 
-[![Test](https://img.shields.io/website?url=https%3A%2F%2Fsleep-stages-identification.streamlit.app%2F&logo=streamlit&label=Sleep%20Stages%20Identification
-)](https://sleep-stages-identification.streamlit.app/)
 
-## Key Features
+# Main function
 
-- Loads and analyzes EEG data to identify sleep stages
-- Utilizes wavelet transforms for signal preprocessing
-- Leverages a pre-trained Keras model for sleep stage prediction
-- Generates a comprehensive report with:
+- User registration and login
+- Presentation of sleep staging results
+- Data processing and model integration module
+- Sleep phase proportion analysis module
+- Sleep analysis and advice module
 
-    - Sleep wave visualization
-    - Hypnogram
-    - Sleep quality score
-    - Detailed information on sleep stage characteristics and duration
+
+    
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/AjiBegawan/sleep-stages-identification.git
+  git clone https://github.com/sa404-star/Sleep-Monitoring-Assistance-System.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd sleep-stages-identification
+  cd Sleep-Monitoring-Assistance-System
 ```
 
 Install dependencies
@@ -56,4 +53,8 @@ Start the project
 
 ## Screenshots
 
-![Sleep Stages Identification Website](https://github.com/AjiBegawan/sleep-stages-identification/blob/main/images/website-page.png)
+![Sleep-Monitoring-Assistance-System website](https://github.com/AjiBegawan/sleep-stages-identification/blob/main/images/website-page.png)
+
+
+# reference code
+Code reference in[sleep-stages-identification](https://github.com/AjiBegawan/sleep-stages-identification). 
