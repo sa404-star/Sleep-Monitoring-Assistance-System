@@ -45,7 +45,11 @@ Install dependencies
 ```
 
 Start the project
-
+1.Modify your own API-KEY on line 632 of app.py.
+```python
+  client = OpenAI(api_key="xxxx", base_url="https://api.deepseek.com")
+```
+2.run
 ```bash
   streamlit run app.py
 ```
